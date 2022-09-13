@@ -1,4 +1,4 @@
-Simple Sorting Visualizer App made using React
+Simple Sorting Visualizer App made using React.
 Implemented 3 Sorting Techniques namely: Bubble Sort, Insertion Sort, Selection Sort
 All the codes are in the src Folder
 
